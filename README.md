@@ -1,2 +1,2 @@
 # ADV Bag Shop
-Statis E commerce without database
+Statis E commerce with database
